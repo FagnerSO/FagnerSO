@@ -5,8 +5,6 @@
 
 - 🌱 Estou estudando **Analise e desenvolvimento de sistemas**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em https://github.com/FagnerSO
-
 - 📫 Como entrar em contato comigo **oliveira.fgn@gmail.com**
 
 - 📄 Conheça minhas experiências www.linkedin.com/in/oliveira-fagner
