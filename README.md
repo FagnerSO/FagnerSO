@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Fagner</h1>
-<h3 align="center">Um engenheiro em transição para a área de desenvolvimento</h3>
+<h3 align="center">Em transição para a área de desenvolvimento</h3>
 
 - 🔭 Atualmente estou trabalhando em **meu portifólio e projetos da faculdade**
 
